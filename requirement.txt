@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-image
+tensorly == 0.8.1
+opencv-python
+matplotlib
+streamlit
