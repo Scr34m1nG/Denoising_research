@@ -3,7 +3,7 @@
 ## Setup venv
 
 > python -m venv .venv
-> 
+>
 > .venv\Scripts\Activate.ps1
 
 ## Install the library
